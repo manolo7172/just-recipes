@@ -1,6 +1,15 @@
 a{
-    background-color: black;
+    background-color: aqua;
 }
-h1{
-    background-color: black;
+img{
+    width: 1200px;
+    height: 500px;
+   
+}
+#StartingHeading{
+    text-align: center;
+    color: blue;
+   
+    border: 5px solid lightgoldenrodyellow;
+    
 }
